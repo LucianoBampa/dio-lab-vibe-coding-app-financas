@@ -1,6 +1,7 @@
 # 💸 App de Finanças Pessoais (**Sobra**) do Luciano Bampa Vieira com Vibe Coding
+Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding utilizando o Lovable e o Copilot Web. A proposta foi criar um aplicativo de organização financeira pessoal baseado em interação em linguagem natural.
 
-# PRD – App de Organização de Finanças Pessoais, refinado no Copilot Web.
+# PRD – Refinado no Copilot Web.
 ```markdown
 ## 1. Contexto
 Criar um aplicativo de organização financeira pessoal que funcione por meio de conversas em linguagem natural, eliminando formulários complexos ou planilhas.  
@@ -46,12 +47,14 @@ O objetivo é tornar o controle financeiro acessível, simples e amigável, com 
   - Verificar usabilidade para diferentes perfis (incluindo pessoas com necessidades de acessibilidade).
 ```
                                                                     
-Interações com o Lovable:
+#Interações com o Lovable:
+**EU**
 > Crie um App de finanças com base no seguinte PRD(Product Requirements Document): {PRD}
 
->Antes de construir, preciso definir duas coisas sobre o chat: (sobre ia salvar varias conversa (pedi para salvar uma única conversa com histórico contínuo) e o sobre o BD (usei o do próprio Lovable) 
+**Lavoble**
+> Antes de construir, preciso definir duas coisas sobre o chat: (pedi para salvar uma única conversa com histórico contínuo), e o sobre o BD (usei o do próprio Lovable) 
 
-Resposta Lovable:
+**Resposta Lovable:**
 > O app está pronto: login (e-mail ou Google), painel com saldo/metas/dicas, chat com o agente financeiro que registra gastos, receitas e metas por linguagem natural, relatórios por categoria e mês, tudo com controles de contraste e tamanho de texto.
 
 > Consegui logar apenas através do google, após testar, a conversa com o chat não tive retorno do mesmo, me retornando uma mensagem de não autenticado
